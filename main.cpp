@@ -66,7 +66,7 @@ int main()
             y = y + dy;
             z = z + dz;
 
-            //if statement that remove old circles
+            //if statement that removes old circles
             if (iterator - i >= 1500) {
                 continue;
             }
