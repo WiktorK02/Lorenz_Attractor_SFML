@@ -1,4 +1,4 @@
 # Lorenz_Attractor_SFML
-##what I learned 
-•Imporved my SFML library skills 
+## What I learned <br>
+•Imporved my SFML library skills <br>
 •Basic mathematic concept 
